@@ -7,7 +7,6 @@
 .bg-home {
     position: relative;
 
-
 }
 
 .bg-home::before {
@@ -46,8 +45,6 @@
   p{
     text-align: center;
     margin:14px 0;
-
-
   }
 
 }
@@ -83,7 +80,6 @@
     background-color: $primary-normal;
     overflow: hidden;
     color: $white-normal;
-
 }
 
 .about-content {
@@ -95,10 +91,8 @@
       gap: 14px;
       padding: 34px 14px  64px 14px;
 
-
     img { 
         max-width: 570px;
-
     }
     .about-content div{
         flex: 1;
@@ -116,8 +110,7 @@
 
 .about-description{
     h2 {
-        font-size: 38px;
-        margin-bottom:  24px; 
+        font-size: 38px;        margin-bottom:  24px; 
 
     }
     p {
@@ -231,10 +224,6 @@
      gap: 18px;
      color: $white-normal;
      padding: 24px ;
-     
-     
-  
-
 }
 
 .btn-whatsapp{
@@ -243,10 +232,6 @@
       right: 24px;
       z-index: 99 ;
       
-
-
-   
-
 }
 
 
@@ -256,8 +241,5 @@
          img{
             max-width: 64px;
          }
-    }
-
-  
-    
+    }    
 }
